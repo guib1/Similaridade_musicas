@@ -8,7 +8,7 @@ Projeto apresentado no **III Encontro de Ciência de Dados das Fatecs** (2023) q
 - Processamento de texto com TF-IDF
 - Pipeline completo em Python (Pandas, Scikit-learn)
 
-**Key Features**:
+**Funcionalidade**:
 
 ✔ Análise de letras e metadados musicais  
 ✔ Geração de recomendações personalizadas  
